@@ -5,10 +5,10 @@ return $('p');
 }
 
 function lastImageSelector(){
-  return$('img:last');
+  return $('img:last');
 }
 
-function ninjaBabySelector (){
+function ninjaBabySelector(){
   returns $('img:baby-ninja');
 }
 
